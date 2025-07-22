@@ -1,6 +1,6 @@
 import telebot
 import random
-bot = telebot.TeleBot("8102717177:AAHSZcp2bnLplAaU1Sa6CfOFmU5HjpTcSsw")
+bot = telebot.TeleBot("TOKEN")
 
 #/start
    
