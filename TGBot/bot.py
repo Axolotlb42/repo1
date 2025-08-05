@@ -2,7 +2,7 @@ import telebot
 import random
 import os
 
-bot = telebot.TeleBot("8102717177:AAHSZcp2bnLplAaU1Sa6CfOFmU5HjpTcSsw")
+bot = telebot.TeleBot("TOKEN")
 
 #/start
    
@@ -86,4 +86,5 @@ def recycyling_inf(message):
 def echo_all(message):
         bot.reply_to(message, message.text)
     
+
 bot.polling()
