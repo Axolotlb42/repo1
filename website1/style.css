@@ -1,0 +1,16 @@
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 14px; /* Размер основного шрифта в <p></p>  */
+    background-color: #bbff00ee; /* Цвет фона веб-страницы */
+    color: #333333; /* Цвет основного текста */ 
+}
+h1 {
+    color: #a80000; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: inherit; /* Семейство шрифтов */
+}
+р2 {
+    color:aquamarine;
+    font-size: 10px;
+    font-family: monospace;
+}
